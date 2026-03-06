@@ -195,7 +195,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/93610218 _ CF2_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -314,7 +314,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Viviana Páez Perilla',
+          nombre: 'Oscar Hernán Fuentes Hernández',
           cargo: 'Experto temático',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
