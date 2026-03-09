@@ -314,8 +314,8 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Oscar Hernán Fuentes Hernández',
-          cargo: 'Experto temático',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta temática',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
